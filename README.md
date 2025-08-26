@@ -1,5 +1,6 @@
 # AI-Systems-Development
 
-### Avani Gajallewar
-### ECE
-### 221010213
+### Anoushka Koul
+### CSE
+### 221000010
+
